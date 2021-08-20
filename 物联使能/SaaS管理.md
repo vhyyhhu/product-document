@@ -10,15 +10,14 @@
 
 3. 在 SaaS 服务页，单击【新建】，定义您的 SaaS 。
 
-   <img src="https://main.qcloudimg.com/raw/8564e0e2b972386b20babe4b202296fa.png" style="width: 650px;"></img>
-
+    <img src="https://main.qcloudimg.com/raw/8564e0e2b972386b20babe4b202296fa.png" style="width: 650px; zoom: 80%;"></img><br>
  - **SaaS 名称**：必填，根据实际业务输入便于识别的 SaaS 名称。支持中文、英文、数字、下划线的组合，最多不超过20个字符。
  - **SaaS 场景**：必填，选择业务实际的 SaaS 场景。
  - **SaaS 类型**：必填，选择要创建的 SaaS 类型。
  - **SaaS 图片**：非必填，上传 SaaS 图片，大小不超过500.00KB，尺寸建议100 * 100, 支持jpg、jpeg、png格式。
  - **SaaS 描述**：字数少于100字，您可以根据需要选填。
 
-3. 单击【保存】，即可创建 SaaS 。
+4. 单击【保存】，即可创建 SaaS 。
 
 ### 删除 SaaS 
 
@@ -26,7 +25,7 @@
 
 当您无需该 SaaS 时，您可以在该 SaaS 的右上方，单击【删除】即可。
 
-<img src="https://main.qcloudimg.com/raw/0577c32c76b0e2b57c7617456e1f4278.png" style="width: 416px;"></img>
+<img src="https://main.qcloudimg.com/raw/0577c32c76b0e2b57c7617456e1f4278.png" style="width: 416px; zoom: 67%;"></img>
 
 ###  SaaS 概览
 
@@ -34,13 +33,8 @@
 
 1. 单击已创建的 SaaS ，进入 SaaS 概览页面，可查看 SaaS 的概览信息。
 
-  <img src="https://main.qcloudimg.com/raw/56e6e2b25846d720378aae01d7b69975.png" style="width: 650px;"></img><br>
+  <img src="https://main.qcloudimg.com/raw/56e6e2b25846d720378aae01d7b69975.png" style="width: 650px; zoom: 80%;"></img><br>
 
 2. 单击【编辑】，可修改 SaaS 信息，单击【确定】 SaaS 信息即可修改成功。
 
-   <img src="https://main.qcloudimg.com/raw/2dbcbb3f5bd4f39cae743368d9781d5f.png" style="width: 650px;"></img><br>
-
-
-
-
-
+  <img src="https://main.qcloudimg.com/raw/2dbcbb3f5bd4f39cae743368d9781d5f.png" style="width: 650px; zoom: 80%;"></img><br>
