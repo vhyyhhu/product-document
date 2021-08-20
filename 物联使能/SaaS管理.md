@@ -33,8 +33,9 @@
 
 1. 单击已创建的 SaaS ，进入 SaaS 概览页面，可查看 SaaS 的概览信息。
 
-  <img src="https://main.qcloudimg.com/raw/56e6e2b25846d720378aae01d7b69975.png" style="width: 650px; zoom: 80%;"></img><br>
+   <img src="https://main.qcloudimg.com/raw/56e6e2b25846d720378aae01d7b69975.png" style="width: 650px; zoom: 80%;"></img><br>
 
 2. 单击【编辑】，可修改 SaaS 信息，单击【确定】 SaaS 信息即可修改成功。
 
-  <img src="https://main.qcloudimg.com/raw/2dbcbb3f5bd4f39cae743368d9781d5f.png" style="width: 650px; zoom: 80%;"></img><br>
+   <img src="https://main.qcloudimg.com/raw/2dbcbb3f5bd4f39cae743368d9781d5f.png" style="width: 650px; zoom: 80%;"></img>
+
