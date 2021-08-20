@@ -55,9 +55,9 @@
    
    <img src="https://main.qcloudimg.com/raw/49fb36c111dae7beaa32c2f852c799b7.png" alt="" style="zoom: 80%;" />
    
-   > **Demo镜像说明**
-   >
-   > 本Demo镜像为基于php官方镜像所构建的php服务镜像，其默认开放了 80 端口，并在 /var/www/html/ 目录下存放了 index.php 与 post.php 两个代码文件。其中 index.php 用于提供前端显示页面，同时读取并输出txt文件中所记录的物联网设备状态；post.php 用于获取post请求并将其保存在txt文件中。
+<dx-alert infotype="explain" title="Demo镜像说明">
+本Demo镜像为基于php官方镜像所构建的php服务镜像，其默认开放了 80 端口，并在 /var/www/html/ 目录下存放了 index.php 与 post.php 两个代码文件。其中 index.php 用于提供前端显示页面，同时读取并输出txt文件中所记录的物联网设备状态；post.php 用于获取post请求并将其保存在txt文件中。
+</dx-alert>
    
 3. 单击【下一步】进入托管配置页面，本示例对资源要求不高，因此可选择最小资源规格“0.25核/0.5G”。同时副本模式可选择“低成本”，当连续半小时无流量时自研节点将自动缩容实例数量至0，避免额外成本。
 
