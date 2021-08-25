@@ -18,4 +18,4 @@
 4. 单击【保存】后当前环境状态为正在初始化中，请等待数秒。
 <img src="https://main.qcloudimg.com/raw/1b8c3396681bd6632b21c51d7fdcd6c5.jpg"  style="width: 70%">
 5. 环境初始化完成后，将显示如下界面。您可以单击【新建服务】开始新建您的第一个 SaaS 托管服务。
-<img src="https://main.qcloudimg.com/raw/a100e65110d252422faeb704bc4033fa.jpg"  style="width: 70%">
+<img src="https://main.qcloudimg.com/raw/ac31af5c413461f61dcc433dcaa4253f.jpg"  style="width: 70%">
