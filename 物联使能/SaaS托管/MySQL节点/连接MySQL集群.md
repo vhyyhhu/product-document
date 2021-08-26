@@ -141,7 +141,7 @@ yum install mysql
 Python 可使用 **pymysql** 依赖包进行数据库连接。示例代码如下：
 <dx-codeblock>
 :::  python
-
+```
 # -*- coding: utf8 -*-
 from os import getenv
 import pymysql
@@ -173,6 +173,7 @@ def main_handler(event, context):
         print(myresult)
         for x in myresult:
             print(x)
+```
 :::
 </dx-codeblock>
 :::
@@ -182,6 +183,7 @@ Node.js 支持使用连接池进行连接，连接池具备自动重连功能，
 使用连接池前需先安装 **mysql2** 依赖包。
 </dx-alert><dx-codeblock>
 :::  js
+```
 'use strict';
 const DB_HOST       = process.env[`DB_HOST`]
 const DB_PORT       = process.env[`DB_PORT`]
@@ -201,6 +203,7 @@ exports.main_handler = async (event, context, callback) => {
   let result = await promisePool.query('select * from employee');
   console.log(result);
 }
+```
 :::
 </dx-codeblock>
 :::
@@ -247,3 +250,4 @@ function main_handler($event, $context) {
 ```
 :::
 </dx-codeblock>
+
