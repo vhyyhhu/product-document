@@ -119,6 +119,8 @@ GRANT SELECT ON `mysql`.* TO '迁移帐号'@'%';
 <tr>
 <td>接入类型</td><td>选择“公网”。</td></tr>
 <tr>
+<td>数据库版本	</td><td>选择 RDS 5.7。</td></tr>
+<tr>
 <td>所属地域</td><td>源库所属地域为 DTS 服务出口地域，请选择离自建 MySQL 最近的一个地域即可。</td></tr>
 <tr>
 <td>主机地址</td><td>源库 MySQL 访问 IP 地址或域名。</td></tr>
